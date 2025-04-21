@@ -5,7 +5,8 @@
 ![Language](https://img.shields.io/badge/C%2B%2B-Qt6%20%2F%20WinAPI-blue)
 ![Methods](https://img.shields.io/badge/injection-6%20methods-purple)
 
-![DLL Injector Banner](./DLL_Injector_Banner_Modern.png)
+![DLL Injector Banner](https://i.imgur.com/EngOTez.png)
+
 
 > **Standalone DLL injection toolkit for Windows**  
 > GUI, multiple injection techniques, and real-time logging. No build required.
